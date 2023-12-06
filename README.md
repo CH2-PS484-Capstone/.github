@@ -1,4 +1,4 @@
-<img align="center" src="[https://freeimage.host/i/JI5mBBs](https://freeimage.host/i/JI5mBBs)" alt="exploreka-cover" border="0" width="100%">
+<img align="center" src="https://freeimage.host/i/JI5mBBs" alt="explorin-cover" border="0" width="100%">
 
 
 # Hi there, welcome to Explorin 👋

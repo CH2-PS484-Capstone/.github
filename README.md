@@ -1,3 +1,6 @@
+<img align="center" src="https://freeimage.host/i/JI5mBBs" alt="exploreka-cover" border="0" width="100%">
+
+
 # Hi there, welcome to Explorin 👋
 
 The Explorin app is a platform innovative travel application tailored to Indonesia, aimed at providing users with personalized recommendations of tourist attractions and hidden attractions based on their personal interests and preferences

@@ -10,7 +10,7 @@ The Explorin app is a platform innovative travel application tailored to Indones
 
 # Resource
 
-In our project is divided into four repos.
+In our project is divided into three repos.
 
 1. [mobile-development](https://github.com/CH2-PS484-Capstone/mobile-development)
 2. [cloud-computing](https://github.com/CH2-PS484-Capstone/cloud-computing)
